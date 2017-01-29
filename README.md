@@ -5,7 +5,7 @@
 - 【国外镜像】（Github）[https://github.com/yorkoliu/pyauto](https://github.com/yorkoliu/pyauto)
 - 【源码打包下载】（zip）[http://share.weiyun.com/e438cd6fe7e621328c1f4f5494ab4b21](http://share.weiyun.com/e438cd6fe7e621328c1f4f5494ab4b21)
 
-##章节列表
+##章节列表(修改一下目录名)
 * 第一章　系统基础信息模块详解
 * 第二章　业务服务监控详解
 * 第三章　定制业务质量报表详解
